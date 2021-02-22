@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justiniscoding&show_icons=true&theme=radical)
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justiniscoding&show_icons=true&theme=cobalt)
 <!--
 **Justiniscoding/justiniscoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
